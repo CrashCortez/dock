@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /home/pi/dok/mpv_mods/
+cd /home/pi/dock/mpv_mods/
 sudo chown pi:pi *.sh
 sudo chmod a+x *.sh
 cd
