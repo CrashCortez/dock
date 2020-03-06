@@ -8,3 +8,4 @@ sudo cp /home/pi/dok/mpv_mods/etc_udev_rules.d/* /etc/udev/rules.d/
 sudo cp /home/pi/dok/mpv_mods/close.sh /home/pi/scripts
 sudo cp /home/pi/dok/mpv_mods/launchscripts /home/pi/scripts
 #sudo cp /home/pi/dok/mpv_mods/vidware /home/pi/
+sudo systemd enable /etc/systemd/user/vita.service && sudo systemd start vita.service
