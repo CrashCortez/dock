@@ -1,4 +1,4 @@
-# dok
+# Vita.service setup
 Setup files to auto start vita streaming when the usb is plugged in. Created by M0tie
 
 Install with
@@ -12,8 +12,8 @@ sudo ./setup.sh
 or
 
 ```
-git clone https://github.com/CrashCortez/dok
-cd dok/mpv_mods/
+git clone https://github.com/CrashCortez/dock
+cd dock/mpv_mods/
 chmod 755 ./setup.sh
 sudo ./setup.sh
 ```
