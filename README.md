@@ -1,5 +1,7 @@
 # Vita.service setup
 Setup files to auto start vita streaming when the usb is plugged in. Created by M0tie
+Setup files for adding Steamdeck docking when the usb is plugged in Created by Crash
+setup wireless mirrioring for the steamdeck created by reddit user [leo_vir](https://www.reddit.com/r/SteamDeck/comments/tu1o78/steam_deck_wireless_diplay_output/)
 
 Install with
 
