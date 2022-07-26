@@ -1,9 +1,12 @@
 # Vita.service setup
+
+WIP
+__
+
 Setup files to auto start vita streaming when the usb is plugged in. Created by M0tie
 
 Setup files for adding Steamdeck docking when the usb is plugged in Created by Crash
 
-Setup wireless mirrioring for the steamdeck created by reddit user [leo_vir](https://www.reddit.com/r/SteamDeck/comments/tu1o78/steam_deck_wireless_diplay_output/)
 
 Install with
 
@@ -22,7 +25,9 @@ sudo systemctl enable /etc/systemd/user/vita.service && sudo systemctl start vit
 sudo systemctl enable /etc/systemd/user/deck.service && sudo systemctl start deck.service
 ```
 
-# Wireless Streaming setup by [leo_vir](https://www.reddit.com/r/SteamDeck/comments/tu1o78/steam_deck_wireless_diplay_output/)
+# Wireless Streaming setup by Leo_vir
+
+Expermintal not tested. Setup wireless mirrioring for the steamdeck created by reddit user [leo_vir](https://www.reddit.com/r/SteamDeck/comments/tu1o78/steam_deck_wireless_diplay_output/)
 
 now you can live out your wii u dreams on steam deck. okay, this is a hacky workaround but every other solution has quite high latency
 
