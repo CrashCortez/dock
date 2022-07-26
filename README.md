@@ -14,3 +14,6 @@ Enable and start it with
 ```
 sudo systemctl enable /etc/systemd/user/vita.service && sudo systemctl start vita.service
 ```
+```
+sudo systemctl enable /etc/systemd/user/deck.service && sudo systemctl start deck.service
+```
